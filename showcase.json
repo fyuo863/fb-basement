@@ -4,6 +4,7 @@
     {
       "id": "fyuo-blogs",
       "title": "个人博客项目(即本网站).",
+      "repository": "fyuo863/fyuo-blogs",
       "description": "一个插件化的网站外壳，页面以插件形式上传",
       "content": "",
       "url": ""
