@@ -3,11 +3,41 @@
   "albums": [
     {
       "id": "fyuo-blogs",
-      "title": "fyuo-blogs.",
+      "title": "fyuo-blogs",
       "repository": "fyuo863/fyuo-blogs",
-      "description": "个人博客项目(即本网站).",
+      "description": "个人博客项目(即本网站)",
       "content": "一个插件化的网站外壳，页面以插件形式上传",
       "url": ""
+    },
+    {
+      "id": "fyuobot-ts",
+      "title": "fyuobot-ts",
+      "repository": "fyuo863/fyuobot-ts",
+      "description": "事件驱动的轻量化 Agent 框架",
+      "content": "学习用agent项目，用于实验各种技术。",
+      "url": "https://github.com/fyuo863/fyuobot-ts"
+    },
+    {
+      "id": "go-file-fetch",
+      "title": "go-file-fetch",
+      "repository": "fyuo863/go-file-fetch",
+      "description": "简单的多线程文件下载器",
+      "content": "本来是一个自用的 IDM 平替，现已拓展为agent可用的下载插件",
+      "url": "https://github.com/fyuo863/go-file-fetch"
+    },
+    {
+      "id": "GeeMem",
+      "title": "GeeMem",
+      "repository": "fyuo863/GeeMem",
+      "description": "通用 agent 长期记忆模块",
+      "content": "通过/add与/search指令进行写入与检索",
+      "url": "https://github.com/fyuo863/GeeMem"
     }
-  ]
+  ],
+  "featured": {
+    "title": "fyuobot-ts",
+    "repository": "fyuo863/fyuobot-ts",
+    "description": "事件驱动的轻量化 Personal Agent。",
+    "url": "https://github.com/fyuo863/fyuobot-ts"
+  }
 }
